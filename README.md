@@ -36,3 +36,6 @@ These are the postcss plugins we use
 
 # Got a suggestion?
 Make a PR! I would love to expand the plugins and features this template uses
+
+# Error: "Cannot find any of modules: sass,node-sass"
+This is normal, I haven't found a fix for it, scss still works though! Just ignore this issue for now. (this error happens on style tags in components)
