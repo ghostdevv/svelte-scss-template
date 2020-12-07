@@ -1,9 +1,9 @@
 # Svelte & Postcss
-I wrote this template so I can easily impliment svelte and postcss together without having to rewrite it each time. It's based off the official [svelte template](https://github.com/sveltejs/template).
+I wrote this template so I can easily impliment svelte, scss, and postcss together without having to rewrite it each time. It's based off the official [svelte template](https://github.com/sveltejs/template).
 
 To create your new project [degit](https://github.com/Rich-Harris/degit):
 ```bash
-npx degit ghostdevv/svelte-postcss-template my-svelte-app
+npx degit ghostdevv/svelte-scss-template my-svelte-app
 cd my-svelte-app
 ```
 
